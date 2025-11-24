@@ -49,39 +49,34 @@ profiles:
 
 interests:
   - Numerical Analysis
-  - Conservative Discontinuous Galerkin Methods
-  - Machine Learning
   - Nonlinear Partial Differential Equations
+  - Conservative Discontinuous Galerkin Methods
+  - Bäcklund transformation for Nonlienar PDEs
+  - Machine Learning
+    
 
 education:
-  - area: PhD Computer Science (AI Focus)
+  - area: PhD Applied Mathematics
     institution: University of Massachusetts Dartmouth
     icon: ""
     date_start: 2024-09-02
     date_end: 2029-09-05
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+        Research on Discontinuous Galerkin (DG) schemes for nonlinear partial differential equations. Supervised by Prof. Bo Dong and co-supervised by Prof. Yanlai Chen.
+    GPA: 4.00/4.00
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BS Physics
+    institution: COMSATS University Islamabad
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018-02-05
+    date_end: 2022-01-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.45/4.00
 
-      Minored in Mathematics. President of AI Club.
+      Minored in Mathematics. 
 
 work:
   - position: Senior AI Research Scientist
@@ -169,4 +164,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hi! Thank you for visiting my personal website. I am a second-year PhD student in Mathematics at UMass Dartmouth. My research focuses on developing conservative Discontinuous Galerkin (DG) schemes for nonlinear partial differential equations. I recently developed a DG scheme for the Korteweg–de Vries (KdV) equation and implemented its algorithm in MATLAB. These schemes are designed to conserve the mass, energy, and Hamiltonian of the system.
+
+Apart from my studies, I enjoy playing volleyball and cricket.
