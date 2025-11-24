@@ -23,42 +23,42 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Assistant 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Massachusetts Dartmouth
+    url: https://www.umassd.edu/cas/math/people/graduate-assistants/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:mtariq4@umassd.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/m_shan_tariq
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Shantariq786
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/m-shan-tariq/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=Qs08F3gAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Numerical Analysis
+  - Conservative Discontinuous Galerkin Methods
+  - Machine Learning
+  - Nonlinear Partial Differential Equations
 
 education:
   - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+    institution: University of Massachusetts Dartmouth
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-09-02
+    date_end: 2029-09-05
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
